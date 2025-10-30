@@ -27,7 +27,6 @@ Design highlights:
 1. Open Home Dashboard → Quick summary of balance & recent transactions  
 2. Tap “+” to Add Expense → Enter amount, category, note → Save → returns to Dashboard  
 3. Tap Statistics → View charts and filters  
-4. Settings → Manage categories and app preferences
 
 ## Notes
 - Created in: Adobe XD 
