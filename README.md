@@ -22,9 +22,6 @@ Design highlights:
 - `assets/` — icons, exported images, demo GIF (if any)
 - `prototype_links.txt` — public prototype/share link(s)
 
-## Prototype / View
-Figma prototype (view): <paste your Figma public link here>  
-(Or Adobe XD review link): <paste your XD public link here>
 
 ## User flow
 1. Open Home Dashboard → Quick summary of balance & recent transactions  
@@ -33,7 +30,7 @@ Figma prototype (view): <paste your Figma public link here>
 4. Settings → Manage categories and app preferences
 
 ## Notes
-- Created in: Figma / Adobe XD (choose one)
+- Created in: Adobe XD 
 - Exports: PNG, PDF (all frames)
-- Contact: <your-email@example.com>
+- Contact: <naralavenugopoalreddy@gmail.com>
 
